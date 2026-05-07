@@ -17,6 +17,10 @@ A tool to generate a formatted, presentable resume to use for job applications.
 `npm install`
 `npm run dev` for dev | `npm run build` for prod
 
+**Deployment**
+
+Automatically deployed to Cloudflare pages on merge.
+
 ---
 
 ## Screenshots
