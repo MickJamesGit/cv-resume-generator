@@ -1,7 +1,28 @@
-# Resume Builder
+## CV / Resume generator
 
-Basic resume builder using vite + react
+**Description**
+A tool to generate a formatted, presentable resume to use for job applications.
 
-Allows users to enter: - General personal information - Education Experience - Job Experience
+**Features**
 
-Generates a resume based on user inputs
+- Ability to add personal information, job experience and education.
+
+**Technology**
+
+- React
+- Vite
+
+**How to run**
+
+`npm install`
+`npm run dev` for dev | `npm run build` for prod
+
+**Deployment**
+
+Automatically deployed to Cloudflare pages on merge.
+
+---
+
+## Screenshots
+
+![Example](/src/screenshots/example.png)
